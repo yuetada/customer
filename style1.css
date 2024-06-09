@@ -1,0 +1,47 @@
+div ul p.title{
+    font-size:30px;
+    margin-left:100px;
+}
+
+div ul p.subtitle{
+    color:black;
+    margin-left:15%;
+    margin-bottom:-10px;
+    font-size:20px;
+}
+
+.case_text{
+    font-size:20px;
+    margin-left:15%;
+    color:#000000;
+  }
+  
+.case_text.dark{
+    color:#fff;
+  }
+
+.subtitle {
+    margin-left:-5%;
+    margin-bottom:-10px;
+    font-size:20px;
+}
+
+div ul li{
+    font-size: 17px;
+}
+
+div ul li a.href{
+    text-decoration:none;
+    font-size:20px;
+    color: #0080ff
+}
+
+.title{
+    font-size:30px;
+    margin-left:250px;
+}
+div.download ul li{
+    color:rgb(0, 0, 0);
+    font-size:20px;
+    margin-left:15%;
+}
