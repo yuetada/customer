@@ -1,12 +1,14 @@
 const body = document.querySelector("body"),
         toggle = document.querySelector(".toggle"),
         content = document.querySelector(".content"),
+        subtitle = document.querySelector(".subtitle"),
         case_text = document.querySelector(".case_text");
 
         let getMode = localStorage.getItem("mode");
         if (getMode && getMode === "dark"){
           body.classList.add("dark");
-          content.classList.add("dark");   
+          content.classList.add("dark"); 
+          subtitle.classList.add("dark");  
           toggle.classList.add("active");
         }
 

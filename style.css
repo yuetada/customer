@@ -195,7 +195,6 @@ input[type="checkbox"]{
   transform: translate(-50%, -50%);
   text-align: center;
   z-index: -1;
-  width: 100%;
   padding: 0 30px;
   font-size: 40px;
   font-weight: 700;
@@ -204,5 +203,9 @@ input[type="checkbox"]{
 
 .content.dark{
   color: #fff;
+}
+
+div a.subtitle{
+  font-size: 25px;
 }
 
