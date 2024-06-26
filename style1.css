@@ -13,13 +13,9 @@ div ul p.subtitle{
 .case_text{
     font-size:20px;
     margin-left:15%;
-    color:#000000;
-  }
-  
-.case_text.dark{
     color:#fff;
   }
-
+  
 .subtitle {
     margin-left:-5%;
     margin-bottom:-10px;
