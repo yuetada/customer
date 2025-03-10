@@ -3,6 +3,14 @@ div ul p.title{
     margin-left:100px;
 }
 
+div ul p.maintitle{
+    color:black;
+    margin-left:15%;
+    margin-bottom:-10px;
+    font-size:20px;
+}
+
+
 div ul p.subtitle{
     color:black;
     margin-left:15%;
@@ -10,20 +18,31 @@ div ul p.subtitle{
     font-size:20px;
 }
 
+
 .case_text{
     font-size:20px;
     margin-left:15%;
     color:#fff;
-  }
-  
-.subtitle {
+}
+.maintitle {
     margin-left:-5%;
+    margin-bottom:-10px;
+    font-size:20px;
+}
+.maintitle_word{
+    color: pink;
+    font-size:30px;
+}
+.subtitle {
+    margin-left:-3%;
     margin-bottom:-10px;
     font-size:20px;
 }
 
 div ul li{
+    margin-left:2%;
     font-size: 17px;
+
 }
 
 div ul li a.href{
